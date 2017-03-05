@@ -2,6 +2,8 @@
 it will turn on the ACT (green) LED when the temperature is higher than \<level 1\> degrees celcius<br>
 and will make the ACT (green) LED blink when the temperature is higher than \<level 2\> degrees celcius<br>
 otherwise the ACT (green) LED will stay dark
+<br><br>
+works nice on retropi
 
 installation
 ==
