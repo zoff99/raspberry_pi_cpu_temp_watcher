@@ -19,3 +19,5 @@ and add this line to /etc/rc.local (before the "exit 0" line):
 /usr/local/bin/pi_temp_watcher.sh >/dev/null 2>/dev/null &
 
 ```
+
+then reboot
